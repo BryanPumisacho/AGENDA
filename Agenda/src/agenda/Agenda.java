@@ -5,6 +5,7 @@
  */
 package agenda;
 
+import java.util.Scanner;
 import javax.swing.JOptionPane;
 
 /**
@@ -24,10 +25,13 @@ public class Agenda {
   String direccion;
   int numero;
   
+JOptionPane.showInputDialog("Ingrese el nombre");
 
-  
+JOptionPane.showInputDialog("Ingrese la direccion");
 
-    
+JOptionPane.showInputDialog("Ingrese el numero de telefono");
+
+
     }
 
    
