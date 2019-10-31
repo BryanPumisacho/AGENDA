@@ -16,18 +16,19 @@ public class Agenda {
     /**
      * @param args the command line arguments
      */
-      String nombre;
-      int numero;
-      String direccion;
+    
       
     public static void main(String[] args) {
         // TODO code application logic here
+  String nombre;
+  String direccion;
+  int numero;
   
-     JOptionPane.showInputDialog("Ingresa el nombre para registrarlo en tu agenda");
-     
-     
+
+  
+
     
-      
     }
-    
+
+   
 }
